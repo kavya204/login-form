@@ -1,0 +1,17 @@
+.bg{
+    background-image: url('../login form/hotel8.jpg');
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.alert{
+    text-align: center;
+    margin-top: 5vh;
+}
+.form-container{
+    border: 1px;
+    padding: 50px 60px;
+    border-radius: 15px;
+    margin-top: 10vh;
+}
